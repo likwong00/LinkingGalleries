@@ -1,0 +1,62 @@
+{
+  "features": [
+    {"datasetid": "bmx-facilities",
+      "recordid": "6982668e4dc0fed72145c589dc0aee7750a50623",
+      "fields": {
+        "description": "A track featuring multiple jumps, berms and rollers.",
+        "objectid": "1",
+        "geo_point_2d": [51.44387274637264, -2.497735966625652],
+        "address": "Longwell Green, Aldermoor Way, Bristol, BS30 7DA",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-2.497735966625652, 51.44387274637264]},
+        "name": "Longwell Green ramp park"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.497735966625652, 51.44387274637264]},
+      "record_timestamp": "2019-05-23T14:34:34.649+01:00"},
+    {"datasetid": "bmx-facilities",
+      "recordid": "0ce7369c5c12db57833c8ef5f411c1c47f4d6cd1",
+      "fields": {
+        "description": "A community run BMX Club open to all ages and abilities.",
+        "objectid": "3",
+        "geo_point_2d": [51.49711725051362, -2.673010286547662],
+        "address": "Lawrence Weston, Henacre Road, BS11 0HE",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-2.673010286547662, 51.49711725051362]},
+        "name": "L-Dub BMX track - Lawrence Weston"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.673010286547662, 51.49711725051362]},
+      "record_timestamp": "2019-05-23T14:34:34.649+01:00"},
+    {"datasetid": "bmx-facilities",
+      "recordid": "7f9ce3c9743f1a3631de4785dbc64af0de5fdab4",
+      "fields": {
+        "description": "A concrete skatepark located in the grounds of Bradley Stoke Leisure Centre.",
+        "objectid": "11",
+        "geo_point_2d": [51.53619968046879, -2.545715028919079],
+        "address": "1 Fiddlers Wood Ln, Bradley Stoke, Bristol BS32 9BS",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-2.545715028919079, 51.53619968046879]},
+        "name": "Bradley Stoke Skatepark"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.545715028919079, 51.53619968046879]},
+      "record_timestamp": "2019-05-23T14:34:34.649+01:00"},
+    {"datasetid": "bmx-facilities",
+      "recordid": "6e5ab2cbb94db0f5f8a00302a8d23b569df3866b",
+      "fields": {
+        "description": "A Mini 4X Downhill track with some decent sized jumps and a pump track.",
+        "objectid": "2",
+        "geo_point_2d": [51.41585494241915, -2.549401432429181],
+        "address": "Stockwood, Whittock Road, near Burnbush Primary School, BS14 8DQ",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-2.549401432429181, 51.41585494241915]},
+        "name": "Stockwood Bike Track"},
+      "geometry": {"type": "Point",
+        "coordinates": [-2.549401432429181, 51.41585494241915]},
+      "record_timestamp": "2019-05-23T14:34:34.649+01:00"},
+    {"datasetid": "bmx-facilities", "recordid": "cae5fe98f9300d2ee98c69fc0345889655679139", "fields": {"description": "A skate park and BMX pump track.", "objectid": "4", "geo_point_2d": [51.478778950688216, -2.548956379150065], "address": "Eastville Park, at the north west end of the allotments between Everest Road and Redhill Drive, BS16 2BZ", "geo_shape": {"type": "Point", "coordinates": [-2.548956379150065, 51.478778950688216]}, "name": "Eastville Park Track"}, "geometry": {"type": "Point", "coordinates": [-2.548956379150065, 51.478778950688216]}, "record_timestamp": "2019-05-23T14:34:34.649+01:00"},{"datasetid": "bmx-facilities", "recordid": "a76e3d2956a895100aeb055de461af742c3e69d3", "fields": {"description": "Bristol's latest pump and jump track track at Arno's Court Park which includes rollers, small jumps, doubles and berms.", "objectid": "14", "geo_point_2d": [51.43961117008539, -2.56150556385155], "address": "Hampstead Rd, Bristol BS4 3HJ", "geo_shape": {"type": "Point", "coordinates": [-2.56150556385155, 51.43961117008539]}, "name": "Arnos Park Jump Park"}, "geometry": {"type": "Point", "coordinates": [-2.56150556385155, 51.43961117008539]}, "record_timestamp": "2019-05-23T14:34:34.649+01:00"},{"datasetid": "bmx-facilities", "recordid": "0556798882ebc2923943ee94baf3e34f090f58c9", "fields": {"description": "Home to Bath BMX Club which operates from the BMX track at Odd Down with gate practise or training sessions taking place on a Saturday - www.bathbmx.com", "objectid": "10", "geo_point_2d": [51.36387335385456, -2.373702417884944], "address": "Chelwood Drive, Odd Down, Bath, BA2 2AX", "geo_shape": {"type": "Point", "coordinates": [-2.373702417884944, 51.36387335385456]}, "name": "Odd Down Cycle Track"}, "geometry": {"type": "Point", "coordinates": [-2.373702417884944, 51.36387335385456]}, "record_timestamp": "2019-05-23T14:34:34.649+01:00"},{"datasetid": "bmx-facilities", "recordid": "cf28d9631a6e812d27f57bb1722123fb42fd7d80", "fields": {"description": "Concrete ramps", "objectid": "9", "geo_point_2d": [51.41626745322162, -2.49657903771184], "address": "Keynsham, Bristol BS31 1HL", "geo_shape": {"type": "Point", "coordinates": [-2.49657903771184, 51.41626745322162]}, "name": "Memorial Park, Keynsham"}, "geometry": {"type": "Point", "coordinates": [-2.49657903771184, 51.41626745322162]}, "record_timestamp": "2019-05-23T14:34:34.649+01:00"},{"datasetid": "bmx-facilities", "recordid": "0fc2caa787ee87fcd1c790dfefbb454333617c82", "fields": {"description": "Concrete BMX Park", "objectid": "8", "geo_point_2d": [51.44218085160658, -2.6014394300150663], "address": "Dean Lane Skatepark, Dame Emily Park, Dean Lane, Bristol, BS3 1DL", "geo_shape": {"type": "Point", "coordinates": [-2.6014394300150663, 51.44218085160658]}, "name": "Dean Lane Skate Park, Southville"}, "geometry": {"type": "Point", "coordinates": [-2.6014394300150663, 51.44218085160658]}, "record_timestamp": "2019-05-23T14:34:34.649+01:00"},{"datasetid": "bmx-facilities", "recordid": "f95e0e90c5397f1b45b2282e832bee40773468e5", "fields": {"description": "BMX and Skate Park.", "objectid": "7", "geo_point_2d": [51.41559644106214, -2.584447789966727], "address": "Hengrove Way, Hengrove, Bristol, BS14", "geo_shape": {"type": "Point", "coordinates": [-2.584447789966727, 51.41559644106214]}, "name": "Hengrove Park"}, "geometry": {"type": "Point", "coordinates": [-2.584447789966727, 51.41559644106214]}, "record_timestamp": "2019-05-23T14:34:34.649+01:00"},{"datasetid": "bmx-facilities", "recordid": "d5cc1af6107863bc793b122c84e787e0a5d6afd1", "fields": {"description": "Near Bristol City Centre has been designed to allow riders to ride around the undulating course by using jumps and rollers to gain momentum.", "objectid": "5", "geo_point_2d": [51.44597206090722, -2.624356390478713], "address": "Cumberland Basin, underneath the Brunel Way A370 flyover, BS1 6XN", "geo_shape": {"type": "Point", "coordinates": [-2.624356390478713, 51.44597206090722]}, "name": "Brunel Way Pump Track"}, "geometry": {"type": "Point", "coordinates": [-2.624356390478713, 51.44597206090722]}, "record_timestamp": "2019-05-23T14:34:34.649+01:00"},{"datasetid": "bmx-facilities", "recordid": "df8617743c87dfc154152a622635ae98dc6b32cb", "fields": {"description": "BMX track, earth mounds covered in rolled dust - home to Bristol Bombers BMX Club", "objectid": "6", "geo_point_2d": [51.537201046231, -2.576710249010234], "address": "Water Side Dr, Patchway, Bristol BS34 5JT", "geo_shape": {"type": "Point", "coordinates": [-2.576710249010234, 51.537201046231]}, "name": "Bristol BMX Track (The Tumps)"}, "geometry": {"type": "Point", "coordinates": [-2.576710249010234, 51.537201046231]}, "record_timestamp": "2019-05-23T14:34:34.649+01:00"},{"datasetid": "bmx-facilities", "recordid": "0672992c3fb5e636b33798c8567ee0a2b8d61de5", "fields": {"description": "A compact and well-designed track in Hillfields, East Bristol.", "objectid": "13", "geo_point_2d": [51.475118611637726, -2.520171063157818], "address": "Gorse Hill, Bristol BS16 4EG", "geo_shape": {"type": "Point", "coordinates": [-2.520171063157818, 51.475118611637726]}, "name": "Hillfields Pump Track"}, "geometry": {"type": "Point", "coordinates": [-2.520171063157818, 51.475118611637726]}, "record_timestamp": "2019-05-23T14:34:34.649+01:00"},{"datasetid": "bmx-facilities", "recordid": "067244851097508fe024751c1d6a4f063af2cc7c", "fields": {"description": "BMX track and skatepark", "objectid": "12", "geo_point_2d": [51.50623945034656, -2.570316956094516], "address": "Elm Park, Filton, Bristol, BS34 7PS", "geo_shape": {"type": "Point", "coordinates": [-2.570316956094516, 51.50623945034656]}, "name": "Filton Skatepark"}, "geometry": {"type": "Point", "coordinates": [-2.570316956094516, 51.50623945034656]}, "record_timestamp": "2019-05-23T14:34:34.649+01:00"},{"datasetid": "bmx-facilities", "recordid": "d5cce796f185d29504ca33259368e0766be4a3f7", "fields": {"description": "Outdoor Concrete Skatepark with Bowls, Hips and lots of transition. Built and then renovated by wheelscape.", "objectid": "15", "geo_point_2d": [51.46080298058742, -2.550216320492702], "address": "St.George Park Skatepark, St. Georges Park, Lyndale Road, Bristol, BS5 7AA,", "geo_shape": {"type": "Point", "coordinates": [-2.550216320492702, 51.46080298058742]}, "name": "St George Wheel Park"}, "geometry": {"type": "Point", "coordinates": [-2.550216320492702, 51.46080298058742]}, "record_timestamp": "2019-05-23T14:34:34.649+01:00"}]}
